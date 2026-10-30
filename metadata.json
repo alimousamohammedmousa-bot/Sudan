@@ -1,0 +1,6 @@
+{
+  "name": "Tulambati",
+  "description": "Crowdsourced real-time tracker for fuel stations (tulumba) and cooking gas (LPG) availability, queues, prices, and community reports in Sudan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
